@@ -1,3 +1,7 @@
+## [2.0.3]
+
+Add Swift Package Manager support for iOS.
+
 ## [2.0.2]
 
 Update README.
